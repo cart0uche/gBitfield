@@ -1,0 +1,19 @@
+{
+   "bitfields" : [
+      {
+         "name" : "first_bitfield",
+         "fields": [
+            {"name" : "name1_1", "size" : "5"},
+            {"name" : "name1_2", "size" : "3"}
+         ]
+      },
+      {
+         "name" : "second_bitfield",
+         "fields": [
+            {"name" : "name2_1", "size" : "15"},
+            {"name" : "name2_2", "size" : "8"}
+         ]
+      }
+   ]
+}
+
